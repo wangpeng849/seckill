@@ -22,15 +22,12 @@ SpringBoot构建电商基础秒杀项目
 
 ### 4、联系方式
 
-邮箱：zcyf0809@163.com
-
-微信：zcyf-1314
 
 ## 二、项目内容
 
 ### 1、结构图
 
-![结构图](C:\Users\13503\AppData\Roaming\Typora\typora-user-images\image-20191211104149443.png)
+![结构图]
 
 
 
